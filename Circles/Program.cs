@@ -1,4 +1,4 @@
-﻿namespace Podminky
+﻿namespace Conditions
 {
     public class Program
     {
